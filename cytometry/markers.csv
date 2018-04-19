@@ -1,0 +1,115 @@
+sample,marker,flurochrome,excitation(laser),comment
+WNVBMaSMPL1,B220,BV785,V780_A-A,"B220 is a isoform of CD45, a pan B-cell marker in mice"
+WNVBMaSMPL1,CD115,PE,YG582_D-A,CD115 (Cluster of differentiation antigen 115)  is an exclusive marker for blood monocytes
+WNVBMaSMPL1,CD117,BV421,V440_F-A,CD117 is a mast/stem cell growth factor receptor; CD117 is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow
+WNVBMaSMPL1,CD11b,BV605,V610_D-A,"CD11b is expressed on the surface of many leukocytes including monocytes, neutrophils, natural killer cells, granulocytes and macrophages"
+WNVBMaSMPL1,CD11c,BV711,V715_B-A,"CD11c is an integrin glycoprotein expressed by mononocytes and macrophages, neutrophils, myeloid dendritic cells and a small subset of lymphocytes."
+WNVBMaSMPL1,CD135,PECF594,YG610_C-A,CD135 (Cluster of differentiation antigen 135) is expressed on the surface of many hematopoietic progenitor cells
+WNVBMaSMPL1,CD150,BV650,V660_C-A,"CD150 is a glycoprotein expressed on the surface of T, B, natural killer, and dendritic cells. "
+WNVBMaSMPL1,CD16/32,PECy7,YG780_A-A,"Mouse CD16/CD32 epitope is expressed on B cells, monocytes/macrophages, NK cells and neutrophils"
+WNVBMaSMPL1,CD3/CD19/NK11,PECy5,YG670_B-A,CD3/CD19/NK11 simultan test
+WNVBMaSMPL1,CD45,PerCPCy5-5,B695_A-A,"CD45 marker is used to distinguish the two stem cell types, as CD45 is found on all leukocytes"
+WNVBMaSMPL1,CD48,AF700,R730_B-A,CD48 is one of the pan leukocyte cell surface antigen
+WNVBMaSMPL1,Ly6C,FITC,B525_B-A,"Ly6c1 (lymphocyte antigen 6 complex, locus C1)"
+WNVBMaSMPL1,Ly6G,APC/Cy7,R780_A-A,"Ly6G (Lymphocyte antigen 6 complex locus G6D) is a marker for monocytes, granulocytes and neutrophils"
+WNVBMaSMPL1,SCA1,BV510,V525_E-A,"Sca-1 stands for ""Stem cells antigen-1"""
+WNVBMaSMPL2,B220,BV785,V780_A-A,"B220 is a isoform of CD45, a pan B-cell marker in mice"
+WNVBMaSMPL2,CD115,PE,YG582_D-A,CD115 (Cluster of differentiation antigen 115)  is an exclusive marker for blood monocytes
+WNVBMaSMPL2,CD117,BV421,V440_F-A,CD117 is a mast/stem cell growth factor receptor; CD117 is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow
+WNVBMaSMPL2,CD11b,BV605,V610_D-A,"CD11b is expressed on the surface of many leukocytes including monocytes, neutrophils, natural killer cells, granulocytes and macrophages"
+WNVBMaSMPL2,CD11c,BV711,V715_B-A,"CD11c is an integrin glycoprotein expressed by mononocytes and macrophages, neutrophils, myeloid dendritic cells and a small subset of lymphocytes."
+WNVBMaSMPL2,CD135,PECF594,YG610_C-A,CD135 (Cluster of differentiation antigen 135) is expressed on the surface of many hematopoietic progenitor cells
+WNVBMaSMPL2,CD150,BV650,V660_C-A,"CD150 is a glycoprotein expressed on the surface of T, B, natural killer, and dendritic cells. "
+WNVBMaSMPL2,CD16/32,PECy7,YG780_A-A,"Mouse CD16/CD32 epitope is expressed on B cells, monocytes/macrophages, NK cells and neutrophils"
+WNVBMaSMPL2,CD3/CD19/NK11,PECy5,YG670_B-A,CD3/CD19/NK11 simultan test
+WNVBMaSMPL2,CD45,PerCPCy5-5,B695_A-A,"CD45 marker is used to distinguish the two stem cell types, as CD45 is found on all leukocytes"
+WNVBMaSMPL2,CD48,AF700,R730_B-A,CD48 is one of the pan leukocyte cell surface antigen
+WNVBMaSMPL2,Ly6C,FITC,B525_B-A,"Ly6c1 (lymphocyte antigen 6 complex, locus C1)"
+WNVBMaSMPL2,Ly6G,APC/Cy7,R780_A-A,"Ly6G (Lymphocyte antigen 6 complex locus G6D) is a marker for monocytes, granulocytes and neutrophils"
+WNVBMaSMPL2,SCA1,BV510,V525_E-A,"Sca-1 stands for ""Stem cells antigen-1"""
+WNVBMaSMPL3,B220,BV785,V780_A-A,"B220 is a isoform of CD45, a pan B-cell marker in mice"
+WNVBMaSMPL3,CD115,PE,YG582_D-A,CD115 (Cluster of differentiation antigen 115)  is an exclusive marker for blood monocytes
+WNVBMaSMPL3,CD117,BV421,V440_F-A,CD117 is a mast/stem cell growth factor receptor; CD117 is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow
+WNVBMaSMPL3,CD11b,BV605,V610_D-A,"CD11b is expressed on the surface of many leukocytes including monocytes, neutrophils, natural killer cells, granulocytes and macrophages"
+WNVBMaSMPL3,CD11c,BV711,V715_B-A,"CD11c is an integrin glycoprotein expressed by mononocytes and macrophages, neutrophils, myeloid dendritic cells and a small subset of lymphocytes."
+WNVBMaSMPL3,CD135,PECF594,YG610_C-A,CD135 (Cluster of differentiation antigen 135) is expressed on the surface of many hematopoietic progenitor cells
+WNVBMaSMPL3,CD150,BV650,V660_C-A,"CD150 is a glycoprotein expressed on the surface of T, B, natural killer, and dendritic cells. "
+WNVBMaSMPL3,CD16/32,PECy7,YG780_A-A,"Mouse CD16/CD32 epitope is expressed on B cells, monocytes/macrophages, NK cells and neutrophils"
+WNVBMaSMPL3,CD3/CD19/NK11,PECy5,YG670_B-A,CD3/CD19/NK11 simultan test
+WNVBMaSMPL3,CD45,PerCPCy5-5,B695_A-A,"CD45 marker is used to distinguish the two stem cell types, as CD45 is found on all leukocytes"
+WNVBMaSMPL3,CD48,AF700,R730_B-A,CD48 is one of the pan leukocyte cell surface antigen
+WNVBMaSMPL3,Ly6C,FITC,B525_B-A,"Ly6c1 (lymphocyte antigen 6 complex, locus C1)"
+WNVBMaSMPL3,Ly6G,APC/Cy7,R780_A-A,"Ly6G (Lymphocyte antigen 6 complex locus G6D) is a marker for monocytes, granulocytes and neutrophils"
+WNVBMaSMPL3,SCA1,BV510,V525_E-A,"Sca-1 stands for ""Stem cells antigen-1"""
+WNVBMaSMPL4,B220,BV785,V780_A-A,"B220 is a isoform of CD45, a pan B-cell marker in mice"
+WNVBMaSMPL4,CD115,PE,YG582_D-A,CD115 (Cluster of differentiation antigen 115)  is an exclusive marker for blood monocytes
+WNVBMaSMPL4,CD117,BV421,V440_F-A,CD117 is a mast/stem cell growth factor receptor; CD117 is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow
+WNVBMaSMPL4,CD11b,BV605,V610_D-A,"CD11b is expressed on the surface of many leukocytes including monocytes, neutrophils, natural killer cells, granulocytes and macrophages"
+WNVBMaSMPL4,CD11c,BV711,V715_B-A,"CD11c is an integrin glycoprotein expressed by mononocytes and macrophages, neutrophils, myeloid dendritic cells and a small subset of lymphocytes."
+WNVBMaSMPL4,CD135,PECF594,YG610_C-A,CD135 (Cluster of differentiation antigen 135) is expressed on the surface of many hematopoietic progenitor cells
+WNVBMaSMPL4,CD150,BV650,V660_C-A,"CD150 is a glycoprotein expressed on the surface of T, B, natural killer, and dendritic cells. "
+WNVBMaSMPL4,CD16/32,PECy7,YG780_A-A,"Mouse CD16/CD32 epitope is expressed on B cells, monocytes/macrophages, NK cells and neutrophils"
+WNVBMaSMPL4,CD3/CD19/NK11,PECy5,YG670_B-A,CD3/CD19/NK11 simultan test
+WNVBMaSMPL4,CD45,PerCPCy5-5,B695_A-A,"CD45 marker is used to distinguish the two stem cell types, as CD45 is found on all leukocytes"
+WNVBMaSMPL4,CD48,AF700,R730_B-A,CD48 is one of the pan leukocyte cell surface antigen
+WNVBMaSMPL4,Ly6C,FITC,B525_B-A,"Ly6c1 (lymphocyte antigen 6 complex, locus C1)"
+WNVBMaSMPL4,Ly6G,APC/Cy7,R780_A-A,"Ly6G (Lymphocyte antigen 6 complex locus G6D) is a marker for monocytes, granulocytes and neutrophils"
+WNVBMaSMPL4,SCA1,BV510,V525_E-A,"Sca-1 stands for ""Stem cells antigen-1"""
+WNVBMaSMPL5,B220,BV785,V780_A-A,"B220 is a isoform of CD45, a pan B-cell marker in mice"
+WNVBMaSMPL5,CD115,PE,YG582_D-A,CD115 (Cluster of differentiation antigen 115)  is an exclusive marker for blood monocytes
+WNVBMaSMPL5,CD117,BV421,V440_F-A,CD117 is a mast/stem cell growth factor receptor; CD117 is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow
+WNVBMaSMPL5,CD11b,BV605,V610_D-A,"CD11b is expressed on the surface of many leukocytes including monocytes, neutrophils, natural killer cells, granulocytes and macrophages"
+WNVBMaSMPL5,CD11c,BV711,V715_B-A,"CD11c is an integrin glycoprotein expressed by mononocytes and macrophages, neutrophils, myeloid dendritic cells and a small subset of lymphocytes."
+WNVBMaSMPL5,CD135,PECF594,YG610_C-A,CD135 (Cluster of differentiation antigen 135) is expressed on the surface of many hematopoietic progenitor cells
+WNVBMaSMPL5,CD150,BV650,V660_C-A,"CD150 is a glycoprotein expressed on the surface of T, B, natural killer, and dendritic cells. "
+WNVBMaSMPL5,CD16/32,PECy7,YG780_A-A,"Mouse CD16/CD32 epitope is expressed on B cells, monocytes/macrophages, NK cells and neutrophils"
+WNVBMaSMPL5,CD3/CD19/NK11,PECy5,YG670_B-A,CD3/CD19/NK11 simultan test
+WNVBMaSMPL5,CD45,PerCPCy5-5,B695_A-A,"CD45 marker is used to distinguish the two stem cell types, as CD45 is found on all leukocytes"
+WNVBMaSMPL5,CD48,AF700,R730_B-A,CD48 is one of the pan leukocyte cell surface antigen
+WNVBMaSMPL5,Ly6C,FITC,B525_B-A,"Ly6c1 (lymphocyte antigen 6 complex, locus C1)"
+WNVBMaSMPL5,Ly6G,APC/Cy7,R780_A-A,"Ly6G (Lymphocyte antigen 6 complex locus G6D) is a marker for monocytes, granulocytes and neutrophils"
+WNVBMaSMPL5,SCA1,BV510,V525_E-A,"Sca-1 stands for ""Stem cells antigen-1"""
+WNVBMaSMPL6,B220,BV785,V780_A-A,"B220 is a isoform of CD45, a pan B-cell marker in mice"
+WNVBMaSMPL6,CD115,PE,YG582_D-A,CD115 (Cluster of differentiation antigen 115)  is an exclusive marker for blood monocytes
+WNVBMaSMPL6,CD117,BV421,V440_F-A,CD117 is a mast/stem cell growth factor receptor; CD117 is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow
+WNVBMaSMPL6,CD11b,BV605,V610_D-A,"CD11b is expressed on the surface of many leukocytes including monocytes, neutrophils, natural killer cells, granulocytes and macrophages"
+WNVBMaSMPL6,CD11c,BV711,V715_B-A,"CD11c is an integrin glycoprotein expressed by mononocytes and macrophages, neutrophils, myeloid dendritic cells and a small subset of lymphocytes."
+WNVBMaSMPL6,CD135,PECF594,YG610_C-A,CD135 (Cluster of differentiation antigen 135) is expressed on the surface of many hematopoietic progenitor cells
+WNVBMaSMPL6,CD150,BV650,V660_C-A,"CD150 is a glycoprotein expressed on the surface of T, B, natural killer, and dendritic cells. "
+WNVBMaSMPL6,CD16/32,PECy7,YG780_A-A,"Mouse CD16/CD32 epitope is expressed on B cells, monocytes/macrophages, NK cells and neutrophils"
+WNVBMaSMPL6,CD3/CD19/NK11,PECy5,YG670_B-A,CD3/CD19/NK11 simultan test
+WNVBMaSMPL6,CD45,PerCPCy5-5,B695_A-A,"CD45 marker is used to distinguish the two stem cell types, as CD45 is found on all leukocytes"
+WNVBMaSMPL6,CD48,AF700,R730_B-A,CD48 is one of the pan leukocyte cell surface antigen
+WNVBMaSMPL6,Ly6C,FITC,B525_B-A,"Ly6c1 (lymphocyte antigen 6 complex, locus C1)"
+WNVBMaSMPL6,Ly6G,APC/Cy7,R780_A-A,"Ly6G (Lymphocyte antigen 6 complex locus G6D) is a marker for monocytes, granulocytes and neutrophils"
+WNVBMaSMPL6,SCA1,BV510,V525_E-A,"Sca-1 stands for ""Stem cells antigen-1"""
+WNVBMaSMPL7,B220,BV785,V780_A-A,"B220 is a isoform of CD45, a pan B-cell marker in mice"
+WNVBMaSMPL7,CD115,PE,YG582_D-A,CD115 (Cluster of differentiation antigen 115)  is an exclusive marker for blood monocytes
+WNVBMaSMPL7,CD117,BV421,V440_F-A,CD117 is a mast/stem cell growth factor receptor; CD117 is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow
+WNVBMaSMPL7,CD11b,BV605,V610_D-A,"CD11b is expressed on the surface of many leukocytes including monocytes, neutrophils, natural killer cells, granulocytes and macrophages"
+WNVBMaSMPL7,CD11c,BV711,V715_B-A,"CD11c is an integrin glycoprotein expressed by mononocytes and macrophages, neutrophils, myeloid dendritic cells and a small subset of lymphocytes."
+WNVBMaSMPL7,CD135,PECF594,YG610_C-A,CD135 (Cluster of differentiation antigen 135) is expressed on the surface of many hematopoietic progenitor cells
+WNVBMaSMPL7,CD150,BV650,V660_C-A,"CD150 is a glycoprotein expressed on the surface of T, B, natural killer, and dendritic cells. "
+WNVBMaSMPL7,CD16/32,PECy7,YG780_A-A,"Mouse CD16/CD32 epitope is expressed on B cells, monocytes/macrophages, NK cells and neutrophils"
+WNVBMaSMPL7,CD3/CD19/NK11,PECy5,YG670_B-A,CD3/CD19/NK11 simultan test
+WNVBMaSMPL7,CD45,PerCPCy5-5,B695_A-A,"CD45 marker is used to distinguish the two stem cell types, as CD45 is found on all leukocytes"
+WNVBMaSMPL7,CD48,AF700,R730_B-A,CD48 is one of the pan leukocyte cell surface antigen
+WNVBMaSMPL7,Ly6C,FITC,B525_B-A,"Ly6c1 (lymphocyte antigen 6 complex, locus C1)"
+WNVBMaSMPL7,Ly6G,APC/Cy7,R780_A-A,"Ly6G (Lymphocyte antigen 6 complex locus G6D) is a marker for monocytes, granulocytes and neutrophils"
+WNVBMaSMPL7,SCA1,BV510,V525_E-A,"Sca-1 stands for ""Stem cells antigen-1"""
+WNVBMaSMPL8,B220,BV785,V780_A-A,"B220 is a isoform of CD45, a pan B-cell marker in mice"
+WNVBMaSMPL8,CD115,PE,YG582_D-A,CD115 (Cluster of differentiation antigen 115)  is an exclusive marker for blood monocytes
+WNVBMaSMPL8,CD117,BV421,V440_F-A,CD117 is a mast/stem cell growth factor receptor; CD117 is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow
+WNVBMaSMPL8,CD11b,BV605,V610_D-A,"CD11b is expressed on the surface of many leukocytes including monocytes, neutrophils, natural killer cells, granulocytes and macrophages"
+WNVBMaSMPL8,CD11c,BV711,V715_B-A,"CD11c is an integrin glycoprotein expressed by mononocytes and macrophages, neutrophils, myeloid dendritic cells and a small subset of lymphocytes."
+WNVBMaSMPL8,CD135,PECF594,YG610_C-A,CD135 (Cluster of differentiation antigen 135) is expressed on the surface of many hematopoietic progenitor cells
+WNVBMaSMPL8,CD150,BV650,V660_C-A,"CD150 is a glycoprotein expressed on the surface of T, B, natural killer, and dendritic cells. "
+WNVBMaSMPL8,CD16/32,PECy7,YG780_A-A,"Mouse CD16/CD32 epitope is expressed on B cells, monocytes/macrophages, NK cells and neutrophils"
+WNVBMaSMPL8,CD3/CD19/NK11,PECy5,YG670_B-A,CD3/CD19/NK11 simultan test
+WNVBMaSMPL8,CD45,PerCPCy5-5,B695_A-A,"CD45 marker is used to distinguish the two stem cell types, as CD45 is found on all leukocytes"
+WNVBMaSMPL8,CD48,AF700,R730_B-A,CD48 is one of the pan leukocyte cell surface antigen
+WNVBMaSMPL8,Ly6C,FITC,B525_B-A,"Ly6c1 (lymphocyte antigen 6 complex, locus C1)"
+WNVBMaSMPL8,Ly6G,APC/Cy7,R780_A-A,"Ly6G (Lymphocyte antigen 6 complex locus G6D) is a marker for monocytes, granulocytes and neutrophils"
+WNVBMaSMPL8,SCA1,BV510,V525_E-A,"Sca-1 stands for ""Stem cells antigen-1"""
+,FSC-A,,,Forward Scatter (FSC)  A parameter measuring light scattered less than 10 degrees as a cell passes through the laser beam. The FSC measurement is related to cell size.
+,SSC-A,,,Side Scatter (SSC)  Also called 90o scatter or right angle scatter. Light scattered at a 90 degree angle as a cell passes through the laser beam. This measurement is related to the internal granularity or complexity of a particle.

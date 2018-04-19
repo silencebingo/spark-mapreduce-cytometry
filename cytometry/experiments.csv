@@ -1,0 +1,34 @@
+sample,date,experiment,day,subject,kind,instrument,researchers
+WNVBMaSMPL1,9.10.2015,WNVBMa,0,M1,bone marrow,LSR-II,Baltimore; Darwin
+WNVBMaSMPL2,9.10.2015,WNVBMa,0,M2,bone marrow,LSR-II,Baltimore; Darwin
+WNVBMaSMPL3,9.10.2015,WNVBMa,0,M3,bone marrow,LSR-II,Darwin; Gesner
+WNVBMaSMPL4,9.10.2015,WNVBMa,0,M4,bone marrow,LSR-II,Arber; Baltimore
+WNVBMaSMPL5,12.10.2015,WNVBMa,1,M5,bone marrow,LSR-II,Arber; Baltimore
+WNVBMaSMPL6,12.10.2015,WNVBMa,1,M6,bone marrow,LSR-II,Arber; Baltimore
+WNVBMaSMPL7,12.10.2015,WNVBMa,1,M7,bone marrow,LSR-II,Arber; Baltimore
+WNVBMaSMPL8,12.10.2015,WNVBMa,1,M8,bone marrow,LSR-II,Arber; Baltimore
+WNVBMaSMPL9,13.10.2015,WNVBMa,2,M5,bone marrow,LSR-II,Gesner
+WNVBMaSMPL10,13.10.2015,WNVBMa,2,M6,bone marrow,LSR-II,Gesner
+WNVBMaSMPL11,13.10.2015,WNVBMa,2,M7,bone marrow,LSR-II,Gesner; Baltimore; Arber
+WNVBMaSMPL12,13.10.2015,WNVBMa,2,M8,bone marrow,LSR-II,Gesner; Baltimore; Darwin
+WNVBMaSMPL13,14.10.2015,WNVBMa,3,M5,bone marrow,LSR-II,Darwin
+WNVBMaSMPL14,14.10.2015,WNVBMa,3,M6,bone marrow,LSR-II,Darwin
+WNVBMaSMPL15,14.10.2015,WNVBMa,3,M7,bone marrow,LSR-II,Darwin
+WNVBMaSMPL16,14.10.2015,WNVBMa,3,M8,bone marrow,LSR-II,Darwin
+WNVBMaSMPL17,15.10.2015,WNVBMa,4,M5,bone marrow,LSR-II,Darwin; Gesner
+WNVBMaSMPL18,15.10.2015,WNVBMa,4,M6,bone marrow,LSR-II,Darwin; Gesner
+WNVBMaSMPL19,15.10.2015,WNVBMa,4,M7,bone marrow,LSR-II,Darwin; Gesner
+WNVBMaSMPL20,15.10.2015,WNVBMa,4,M8,bone marrow,LSR-II,Darwin; Gesner
+WNVBMaSMPL21,16.10.2015,WNVBMa,5,M5,bone marrow,LSR-II,Gesner
+WNVBMaSMPL22,16.10.2015,WNVBMa,5,M6,bone marrow,LSR-II,Gesner
+WNVBMaSMPL23,16.10.2015,WNVBMa,5,M7,bone marrow,LSR-II,Darwin
+WNVBMaSMPL24,16.10.2015,WNVBMa,5,M8,bone marrow,LSR-II,Darwin
+WNVBMaSMPL25,17.10.2015,WNVBMa,6,M5,bone marrow,LSR-II,Arber; Darwin
+WNVBMaSMPL26,17.10.2015,WNVBMa,6,M6,bone marrow,LSR-II,Arber; Darwin
+WNVBMaSMPL27,17.10.2015,WNVBMa,6,M7,bone marrow,LSR-II,Arber; Darwin
+WNVBMaSMPL28,17.10.2015,WNVBMa,6,M8,bone marrow,LSR-II,Arber; Darwin
+WNVBMaSMPL29,18.10.2015,WNVBMa,7,M5,bone marrow,LSR-II,Baltimore
+WNVBMaSMPL30,18.10.2015,WNVBMa,7,M6,bone marrow,LSR-II,Arber
+WNVBMaSMPL31,18.10.2015,WNVBMa,7,M7,bone marrow,LSR-II,Gesner
+WNVBMaSMPL32,18.10.2015,WNVBMa,7,M8,bone marrow,LSR-II,Darwin
+WNVBMaSMPL33,19.10.2015,WNVBMa,,,,,
